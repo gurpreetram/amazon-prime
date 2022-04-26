@@ -1,2 +1,2 @@
 # amazon-prime
- this is only for learning purpose
+ this is for learning purpose
