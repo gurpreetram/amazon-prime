@@ -117,10 +117,9 @@ body{
     font-weight: bold;
 }
 .paragraph-2{
-    margin-left: 80px;
     margin-top: 5px;
+    text-align: center;
     font-size: 1rem;
-    text-align: -webkit-match-parent;
 }
 .animation{
     width: 200px;
@@ -285,6 +284,7 @@ body{
                 font-size: 31px;
             } }
 @media only screen and (max-width:626px){
+    
     .coloum{
         width: 100%;
     }
@@ -295,7 +295,10 @@ body{
     .coloum-1 {
         width: 100%;
     text-align: center;
-    height: 100vh;
+    height: 85vh;
+}
+.amazon-1 {
+    height: 80vh;
 }
  .coloum-3{
        width: 100%;
@@ -306,9 +309,9 @@ body{
 }
    .tv-1 {
     width: 100%;
-    height: 100vh;
+    height: 80vh;
     text-align: center;
-    padding: 13px 66px;
+    padding: 75px 66px;
 }
 .coloum-4 {
     width: 90%;
@@ -342,5 +345,14 @@ body{
 }
 .button-4{
     max-width: 370px;
+}
+.amazon-3{
+    height: 80vh;
+}
+.remo-2{
+    height: 80vh;
+}
+.family-2{
+    height: 80vh;
 }
 }
