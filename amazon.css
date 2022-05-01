@@ -1,0 +1,349 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;  
+}
+
+
+.navbar{
+    background: #1b232e;
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+.pic-1{
+    width: 120px;
+    margin-left: 40px;
+    background: #1b232e;
+}
+.search{
+    width: 85%;
+    text-align: right;
+    padding: 25px 0;
+    font-size: 10px;
+}
+.search .btn{
+    font-size: 20px;
+    background-color: #1b232e;
+    border: none;
+    color: #bddfc6;
+    cursor: pointer;
+}
+.search  .btn-2{
+    margin-right: 40px;
+}
+.row{
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.coloum{
+    float: left;
+    width: 50%;
+    color: white;
+}
+.amazon-1{
+    width: 100%;
+    height: 100vh;}
+  
+.coloum-1{
+    padding: 160px 95px;
+    background: #000000;
+    height: 100vh;
+}
+.heading{
+    font-size: 41px;
+}
+.paragraph{
+    font-size: 1rem;
+    margin-top: 20px;
+}
+
+.coloum-btn{
+    background: #0f79af;
+    margin-top: 20px;
+    border: none;
+    padding: 14px 0 14px 0;
+    width: 100%;
+    max-width: 335px;
+    font-size: 18px;
+    color: #e8ffff;
+    border-radius: 3px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.button-2{
+    padding: 14px 0 14px 0;
+    width: 100%;
+    max-width: 230px;
+    margin-top: 60px;
+    background: #0f79af;
+    font-size: 20px;
+    color: #e8ffff;
+    border-radius: 3px;
+    cursor: pointer;
+    font-weight: bold;
+    border: none;
+}
+.button-3{
+    background: #0f79af;
+    margin-top: 20px;
+    border: none;
+    padding: 14px 0 14px 0;
+    width: 100%;
+    max-width: 290px;
+     font-size: 20px;
+    color: #e8ffff;
+    border-radius: 3px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.button-4{
+    background: #0f79af;
+    margin-top: 20px;
+    border: none;
+    padding: 14px 0 14px 0;
+    width: 100%;
+    max-width: 290px;
+    font-size: 20px;
+    color: #e8ffff;
+    border-radius: 3px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.paragraph-2{
+    margin-left: 80px;
+    margin-top: 5px;
+    font-size: 1rem;
+
+}
+.animation{
+    width: 200px;
+    border-radius: 5px;
+    padding: 1px;
+}
+.animation{
+    transition: 1s;
+}
+.animation:hover{
+    transform: scale(1.1);
+}
+
+.coloum-3{
+    color: black;
+    padding: 40px 51px;
+    margin-top: 10px;
+    background-color: white;
+
+}
+.coloum-4{
+    margin-top: 10px;
+    background-color: white;
+}
+.tv-1{
+    background: black;
+    height: 100vh;
+    padding: 85px 85px;
+
+}
+
+.pass-1{
+   font-size: 44px; 
+}
+.pass-2{
+    font-size: 1rem;
+    margin-top: 30px;
+}
+.amazon-2{
+    width:100%;
+    height: 100vh;
+    margin-bottom: -10px;
+
+}
+
+.col-1{
+    margin-top: 10px;
+    margin-bottom: -10px;
+
+}
+.col-2{
+    margin-top: 10px;
+}
+.heading--0{
+    font-size: 41px;
+}
+.paragraph-0{
+    font-size: 1rem;
+    margin-top: 20px;
+}
+.background{
+    background: white;
+}
+.remo-2{
+    padding: 100px;
+    background: black;
+    height: 100vh;
+    margin-top: 0px;
+}
+.amazon-3{
+    width: 100%;
+    height: 100vh;
+
+    margin-bottom: -10px;
+}
+.remo-1{
+    margin-top: 0;
+}
+.paragraph-1{
+    font-size: 1rem;
+    margin-top: 15px;
+}
+.heading-1{
+    font-size: 34px;
+}
+.amazon-4{
+    width: 100%;
+    height: 100vh;
+
+}
+.family-1{
+    margin-top: 0;
+    float: right;
+}
+.family-2{
+    margin-top: 0;
+    background: black;
+    padding: 100px;
+    height: 100vh;
+}
+.heading-3{
+    font-size: 44px;
+}
+.paragraph-3{
+    font-size: 1rem;
+    margin-top: 20px;
+}
+.container{
+    display: inline-block;
+    margin-left: 50%;
+    background-color: black;
+}
+.footer-bottom{
+    text-align: center;
+}
+.footer-para{
+    color: #0f79af;
+}
+.span-tag{
+    color: #1b232e;
+}
+@media only screen and (max-width:1024px){
+  
+ 
+}
+@media only screen and (max-width:907px){
+   
+   
+   
+  
+}
+@media only screen and (max-width:768px){
+        .animation {
+            width: 190px;
+        }
+        .heading {
+            font-size: 30px;
+        }
+        .coloum-1 {
+            padding: 150px 65px;}
+            .pass-1 {
+                font-size: 37px;
+            }
+            .tv-1{
+                
+                padding: 26px 69px;
+            }
+            .heading--0 {
+                font-size: 28px;
+            }
+          
+            .heading-1 {
+                font-size: 24px;
+            }
+            .remo-2{
+                    padding: 95px 55px;
+            }
+           
+      
+            .family-2{
+                padding: 85px 56px;
+            }
+         
+            .pass-1 {
+                font-size: 31px;
+            } }
+@media only screen and (max-width:626px){
+   .coloum-btn{
+    max-width: 454px;
+   }
+   .heading {
+    font-size: 37px;
+}
+    .coloum-1 {
+        width: 100%;
+    text-align: center;
+    height: 60vh;
+}
+.amazon-1 .img{
+    width: 100%;
+    height: 80vh;
+}
+   .coloum-3{
+       width: 100%;
+       text-align: center;
+   }
+   .pass-1 {
+    font-size: 36px;
+}
+   .tv-1 {
+    width: 100%;
+    height: 60vh;
+    text-align: center;
+    padding: 13px 66px;
+}
+.coloum-4 {
+    width: 90%;
+    margin-left: 70px;
+}
+.animation {
+    width: 260px;
+}
+
+.button-2{
+    max-width: 454px;
+   }
+   .heading-1 {
+    font-size: 32px;
+}
+.remo-2 {
+    padding: 61px 55px;
+    width: 100%;
+    text-align: center;
+    height: 60vh;
+}
+.button-3{
+    max-width: 400px;
+}
+.family-2 {
+    padding: 85px 56px;
+    width: 100%;
+    height: 65vh;
+    text-align: center;
+}
+.button-4{
+    max-width: 370px;
+}
+}
