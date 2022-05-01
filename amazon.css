@@ -252,11 +252,12 @@ body{
         .animation {
             width: 190px;
         }
-        .heading {
+             .heading {
             font-size: 30px;
         }
         .coloum-1 {
-            padding: 150px 65px;}
+            padding: 120px 65px;
+        }
             .pass-1 {
                 font-size: 37px;
             }
@@ -284,7 +285,9 @@ body{
                 font-size: 31px;
             } }
 @media only screen and (max-width:626px){
-    
+    .search{
+        padding: 25px 36px;
+    }
     .coloum{
         width: 100%;
     }
@@ -297,9 +300,7 @@ body{
     text-align: center;
     height: 85vh;
 }
-.amazon-1 {
-    height: 80vh;
-}
+
  .coloum-3{
        width: 100%;
        text-align: center;
@@ -309,7 +310,6 @@ body{
 }
    .tv-1 {
     width: 100%;
-    height: 80vh;
     text-align: center;
     padding: 75px 66px;
 }
@@ -346,13 +346,7 @@ body{
 .button-4{
     max-width: 370px;
 }
-.amazon-3{
-    height: 80vh;
-}
-.remo-2{
-    height: 80vh;
-}
-.family-2{
-    height: 80vh;
-}
+
+
+
 }
