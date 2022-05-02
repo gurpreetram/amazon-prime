@@ -286,7 +286,18 @@ body{
                 font-size: 31px;
             } }
 @media only screen and (max-width:626px){
-   
+    .amazon-3 {
+        height: 85vh;
+    }
+    .amazon-2 {
+        height: 90vh;
+    }
+    .amazon-4 {
+        height: 80vh;
+    }
+    .amazon-1 {
+        height: 80vh;
+    }
     .search{
         padding: 25px 24px;
     }
